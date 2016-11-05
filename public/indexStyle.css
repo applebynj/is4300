@@ -1,0 +1,139 @@
+div {
+    border=radius: 5px;
+    }
+
+ul {
+    list-style: none;
+    padding-left: 10px;
+}
+
+html {
+    height: 100%;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    line-height: 1.5;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    height: inherit;
+}
+
+#header {
+    z-index: 1;
+    position: fixed;
+    width: 98%;
+    margin-top: -20px;
+    height: 60px;
+    background-color: #668284;
+    margin-bottom: 10px;
+}
+
+#name {
+    float:left;
+    margin-left: 5px;
+    padding-top: 10px;
+	font-size: 6;
+	color: #ffffff;
+}
+
+#disc {
+    float:left;
+}
+
+img {
+    border-left: auto;
+    border-right:auto;
+}
+
+table {
+    border-top: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr { 
+    border-top: 10px;
+    padding: 100px;
+}
+td {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+td img {
+    max-height: 300px;
+    max-width: 300px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+.idea {
+    max-height: 300px;
+    max-width: 500px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#contact {
+    float:right;
+    font-family: monospace;
+    font-size 3;
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.left {
+    position: fixed;
+    width: 20%;
+    margin-top: 60px;
+    padding-left: 100px;
+    min-width: 200px;
+    float:left;
+    height: auto;
+}
+
+.right {
+    position: relative;
+    width: 70%;
+    margin-top: 60px;
+    margin-right: 5%;
+    float:right;
+    background-color: aliceblue;
+    height: auto;
+    min-width: 10em;
+    max-width: 50em;
+}
+
+h4 {
+    padding-top: 20px;
+}
+
+.left ul li a {
+    line-height: 3;
+}
+
+.proposal {
+    line-height: 2;
+}
+
+#bullet {
+    list-style: disc;
+    padding-left: 50px;
+}
+
+li {
+    margin: 30px 0;
+}
